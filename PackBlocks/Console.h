@@ -8,8 +8,6 @@
 class Console
 {
 private:
-	class Initializer;
-
 	static HANDLE handle;
 
 public:
